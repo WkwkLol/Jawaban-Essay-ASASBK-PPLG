@@ -1,5 +1,10 @@
 ## Jawaban Essay jikalau tulisan enchanting table saya tidak bisa dibaca
 
+## 
+Nama: Mufid Perdana
+Kelas: XII PPLG 1
+Absen: 26
+
 ## Nomor 1
 <p align="center">
   <img src="./gambar/ERD Perpus.png" width="400"/>
