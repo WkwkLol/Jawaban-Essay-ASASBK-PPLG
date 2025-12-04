@@ -1,9 +1,9 @@
 ## Jawaban Essay jikalau tulisan enchanting table saya tidak bisa dibaca
 
-## 
-Nama: Mufid Perdana
-Kelas: XII PPLG 1
-Absen: 26
+## <br>
+Nama: Mufid Perdana <br>
+Kelas: XII PPLG 1 <br>
+Absen: 26 <br>
 
 ## Nomor 1
 <p align="center">
